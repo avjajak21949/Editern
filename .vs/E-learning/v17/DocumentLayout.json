@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\E-learning\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\classstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\classstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\classstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\source\\repos\\e-learning\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|c:\\users\\admin\\documents\\asm topup\\editern\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99728549-66A7-4133-ACA5-96431E07F903}|E-learning.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,28 +82,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClassesController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\ClassesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\ClassesController.cs",
-              "RelativeToolTip": "Controllers\\ClassesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:01:30.062Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T02:49:16.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SchedulesController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\SchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\SchedulesController.cs",
               "RelativeDocumentMoniker": "Controllers\\SchedulesController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\SchedulesController.cs",
               "RelativeToolTip": "Controllers\\SchedulesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,225 +118,193 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PaymentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\PaymentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\PaymentsController.cs",
               "RelativeToolTip": "Controllers\\PaymentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:00:02.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T04:00:02.893Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "Controllers\\CoursesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:59:02.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:59:02.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:49:14.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:49:14.91Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-07T03:48:06.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:48:06.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:41:11.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:41:11.088Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AttendancesController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\AttendancesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\AttendancesController.cs",
               "RelativeDocumentMoniker": "Controllers\\AttendancesController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Controllers\\AttendancesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Controllers\\AttendancesController.cs",
               "RelativeToolTip": "Controllers\\AttendancesController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:40:09.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:40:09.673Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Teacher.cs",
               "RelativeToolTip": "Models\\Teacher.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:14:33.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:14:33.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwBAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:10:57.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:10:57.841Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ClassStudent.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\ClassStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\ClassStudent.cs",
               "RelativeDocumentMoniker": "Models\\ClassStudent.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\ClassStudent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\ClassStudent.cs",
               "RelativeToolTip": "Models\\ClassStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:06:19.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:06:19.906Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Attendance.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Attendance.cs",
               "RelativeDocumentMoniker": "Models\\Attendance.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Attendance.cs",
               "RelativeToolTip": "Models\\Attendance.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:52:12.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T02:52:12.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Schedule.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Schedule.cs",
               "RelativeDocumentMoniker": "Models\\Schedule.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Schedule.cs",
               "RelativeToolTip": "Models\\Schedule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:41:30.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T02:41:30.179Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Course.cs",
               "RelativeToolTip": "Models\\Course.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:16:08.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T02:16:08.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:25:25.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "WhenOpened": "2025-03-07T02:25:25.592Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Payment.cs",
               "RelativeToolTip": "Models\\Payment.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:28:36.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T02:28:36.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Class.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Class.cs",
               "RelativeDocumentMoniker": "Models\\Class.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Class.cs",
               "RelativeToolTip": "Models\\Class.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAzwBQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:20:35.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T02:20:35.13Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-learning\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:13:31.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T02:13:31.594Z"
             }
           ]
         }

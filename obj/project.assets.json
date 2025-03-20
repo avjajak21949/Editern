@@ -9699,11 +9699,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\E-learning\\E-learning.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\E-learning.csproj",
       "projectName": "E-learning",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\E-learning\\E-learning.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\E-learning.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\E-learning\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\asm topup\\Editern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
